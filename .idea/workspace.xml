@@ -1,193 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db52c32-d8e2-47ed-97db-540515ca85b2" name="Default Changelist" comment="">
+    <list default="true" id="5f10cf3c-6236-45db-8ba5-986dea1d556f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/format_importer_1_13_2/format_importer.py" beforeDir="false" afterPath="$PROJECT_DIR$/format_importer_1_13_2/format_importer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/format_importer_1_13_2/modify_conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/format_importer_1_13_2/modify_conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sc_data_sync/hisense_to_sqyn_sc_abstract.py" beforeDir="false" afterPath="$PROJECT_DIR$/sc_data_sync/hisense_to_sqyn_sc_abstract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/cloudbrain_sensorsdata_web_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/cloudbrain_sensorsdata_web_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/start_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_server_and_schedule/index_schedule_cre.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_server_and_schedule/index_schedule_cre.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1dCSESF1bbPdxjP8jMEKaDJYEG2" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="-17" />
+    <option name="width" value="1155" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="importer-sensorsdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="importer-sensorsdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Document\project\cloudbrain-importer-sensorsdata\importer-sensorsdata" />
-      <recent name="E:\Document\project\cloudbrain-importer-sensorsdata\importer-sensorsdata\format_importer_1_13_2\conf" />
-      <recent name="E:\Document\project\cloudbrain-assistant1-2\voice_assistant-1_2_4\format_importer_1_13_2\conf" />
-      <recent name="E:\Document\project\cloudbrain-assistant1-2\voice_assistant-1_2_2\format_importer_1_13_21" />
-      <recent name="E:\Document\project\cloudbrain-assistant1-2\voice_assistant-1_2_2\123" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Document\project\cloudbrain-importer-sensorsdata\importer-sensorsdata\test_server_and_schedule" />
-      <recent name="E:\Document\project\cloudbrain-assistant1-2\voice_assistant-1_2_2\format_importer_1_13_2" />
-      <recent name="E:\Document\project\cloudbrain-assistant1-2\voice_assistant-1_2_2" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.getLog">
-    <configuration name="getLog" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cloudbrain-importer-sensorsdata" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../getLog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="importerdata_mian" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="voice_assistant-1_2_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/importerdata_mian.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="log_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="voice_assistant-1_2_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Document\project\cloudbrain-importer-sensorsdata\importer-sensorsdata\log_w.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="start_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="voice_assistant-1_2_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/format_importer_1_13_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Document\project\cloudbrain-importer-sensorsdata\importer-sensorsdata\format_importer_1_13_2\modify_conf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="voice_assistant-1_2_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.getLog" />
-      <item itemvalue="Python.importerdata_mian" />
-      <item itemvalue="Python.log_test" />
-      <item itemvalue="Python.start_main" />
-      <item itemvalue="Python.t1" />
-    </list>
-    <recent_temporary>
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <item itemvalue="Python.getLog" />
-        <item itemvalue="Python.t1" />
-        <item itemvalue="Python.log_test" />
-        <item itemvalue="Python.importerdata_mian" />
-        <item itemvalue="Python.start_main" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -196,75 +61,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9db52c32-d8e2-47ed-97db-540515ca85b2" name="Default Changelist" comment="" />
-      <created>1591927469973</created>
+      <changelist id="5f10cf3c-6236-45db-8ba5-986dea1d556f" name="Default Changelist" comment="" />
+      <created>1598446466251</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591927469973</updated>
-      <workItem from="1593394159315" duration="301000" />
+      <updated>1598446466251</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595495066100">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595495066100" />
-    <state x="595" y="351" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592525741786">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="595" y="351" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592525741786" />
-    <state x="627" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592614852007">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="627" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592614852007" />
-    <state x="690" y="214" key="FileChooserDialogImpl" timestamp="1596761071359">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596761071359" />
-    <state width="1894" height="69" key="GridCell.Tab.0.bottom" timestamp="1592904136754">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="69" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592904136754" />
-    <state width="1894" height="69" key="GridCell.Tab.0.center" timestamp="1592904136753">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="69" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592904136753" />
-    <state width="1894" height="69" key="GridCell.Tab.0.left" timestamp="1592904136753">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="69" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592904136753" />
-    <state width="1894" height="69" key="GridCell.Tab.0.right" timestamp="1592904136754">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="69" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592904136754" />
-    <state x="346" y="117" key="SettingsEditor" timestamp="1592796934753">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="346" y="117" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592796934753" />
-    <state x="574" y="37" width="771" height="966" key="find.popup" timestamp="1592638931989">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="574" y="37" width="771" height="966" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592638931989" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592813295742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592813295742" />
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.7217676" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
 </project>
